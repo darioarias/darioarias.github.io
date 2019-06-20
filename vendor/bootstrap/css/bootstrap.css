@@ -83,6 +83,13 @@ p {
   margin-bottom: 1rem;
 }
 
+.certi {
+  background-color: rgb(234, 236, 238);
+  /* border: 10px solid; */
+  border-radius: 10px;
+}
+
+
 abbr[title],
 abbr[data-original-title] {
   text-decoration: underline;
